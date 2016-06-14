@@ -1,0 +1,30 @@
+{
+  "name": "latex-linter",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sharelatex/latex-linter.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/sharelatex/latex-linter/issues"
+  },
+  "homepage": "https://github.com/sharelatex/latex-linter",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "grunt": "^1.0.1",
+    "grunt-mocha-test": "^0.12.7",
+    "mocha": "^2.5.3"
+  },
+  "dependencies": {
+    "coffee-script": "^1.10.0"
+  }
+}
